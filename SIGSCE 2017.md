@@ -19,19 +19,19 @@
 * the lecture isn't where students learn - it sets the scene for the actual learning
 * the assignment is where the students actually do the learning
 * coming up with assignments is a lot of work - especially really thoroughly planned thought out one
-### falling sand - http://nifty.stanford.edu/2017/feinberg-falling-sand/
+* **falling sand**  - http://nifty.stanford.edu/2017/feinberg-falling-sand/
 * either with 2D arrays in Java or with jsut ifs and method calls - this tests everything about conditionals
 * version online is without the 2D arrays
 * wikipedia page called falling-sand game - not really a game, more of modelling
 * all students implement the small core of functionality - metal, sand and water (earns a 90%)
 * no instruction or suggestions given about what to do beyond the metal, sand and water
-### 2048 in python - http://nifty.stanford.edu/2017/mishra-2048/
+* **2048 in python** - http://nifty.stanford.edu/2017/mishra-2048/
 * has targeted help and instructional videos - very good in Intro to Programming - scalable for all levels of experience
 * need to create swap
 * variable types and assignments, loops(?), if statements(?)
 * 4-10 hour at CS0, 2-5 hour at CS1
 * focuses on abstraction 
-### Fractal Sound - http://nifty.stanford.edu/2017/hug-fractal-sound/
+* **Fractal Sound** - http://nifty.stanford.edu/2017/hug-fractal-sound/
 * uses an interface - has one method that returns a double (and makes a sound)
 * shows them an "arbitrary" shape and asks them to draw it - the sound acompanies
 * last part is fractal sound - modify the sawtooth wave by bitwise and instead of mod-ing 
@@ -40,13 +40,15 @@
 * need headphones
 * how much do you explain bitshifting - use these magic symbols 
 * why does it sound like that - no easy answer 
-### Automatically Solving SAT/TOEFL questions - http://nifty.stanford.edu/2017/guerzhoy-SAT-synonyms/
+* **Automatically Solving SAT/TOEFL questions** - http://nifty.stanford.edu/2017/guerzhoy-SAT-synonyms/
 * two words are going to by synonyms if they appear in similar contexts - use texts from guttenberg files
 * rule based ai -> learning base ai
 * can use vectors -> they need to know linear algebra - really cool math 
 * need to develop reasonable testcases
 * can do some algorithm design that is relativvely symbol - nested for-loops - but that takes a really long time
 * use the storage instead
+* **N-Body simulations** - http://nifty.stanford.edu/2017/wayne-nbody/
+* 
 
 
 ## How I use Git in my classroom
