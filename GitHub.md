@@ -18,3 +18,12 @@
 * travis ci starts running as soon as they push to git - https://travis-ci.org/getting_started
 * https://docs.travis-ci.com/
 * create a travis.yml file that uses a make file and will create an emulated 
+* http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+* https://docs.travis-ci.com/user/languages/cpp/
+* http://www.ibm.com/developerworks/aix/library/au-googletestingframework.html
+* https://travis-ci.com/profile/MKA-DSA
+* https://en.wikipedia.org/wiki/Makefile
+* https://docs.google.com/presentation/d/1FkNuigljEom75h4WPdELNaQdq-zhunBYynwSEZuXGYU/edit#slide=id.g1eeb1862af_0_80
+* https://github.com/cs50/submit50
+* https://c9.io/
+* 
