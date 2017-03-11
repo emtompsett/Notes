@@ -16,4 +16,5 @@
 * https://travis-ci.org/
 * http://www.ibm.com/developerworks/aix/library/au-googletestingframework.html - test on their code locally
 * travis ci starts running as soon as they push to git - https://travis-ci.org/getting_started
+* https://docs.travis-ci.com/
 * 
