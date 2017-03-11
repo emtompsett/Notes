@@ -1,8 +1,7 @@
 # Notes/Takeaways 
 # SIGSCE 2017
 
-## Friday Keynote
-## Gail Chapman - ECS
+## Friday Keynote: Gail Chapman - ECS
 * need to differentiate methods of teaching that include all students - in the examples, the language and the mindset
 * try to break the biases of "you aren't from here/you aren't like me" and "you either have it or you don't"
 
@@ -50,9 +49,9 @@
 * use the storage instead
 
 
-How I use Git in my classroom
+## How I use Git in my classroom
 
 
-Misc.
-•	https://www.engage-csedu.org/search/materials
-•	Google's CS First - 8 units  grades 3-8
+## Misc.
+* https://www.engage-csedu.org/search/materials
+* Google's CS First - 8 units  grades 3-8
